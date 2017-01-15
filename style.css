@@ -1,0 +1,107 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    overflow-x: hidden;
+}
+
+.margin-auto {
+    margin: 0 auto;
+}
+
+#site-header {
+    height: 100vh;
+    background-color: #FF5722;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    background-image: url("/police-lrg.png");
+}
+
+.main-color {
+    background-color: #FF5722;
+}
+
+.navbar-text-color {
+    color: white;
+}
+
+.nav-link {
+    font-size: 13px;
+}
+
+.logo-text-div {
+    display: inline-block;
+    color: black;
+    position: relative;
+    left: -5px;
+    bottom: 4px;
+}
+
+.section-directory-title-text {
+    color: #FF5722;
+}
+
+.section-directory-title-subtext {
+    color: #bbbdc0;
+}
+
+.section-directory-title-column {
+    padding-top: 20px;
+}
+
+.dark-color {
+    color: #2a2a2a;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+#site-footer {
+    background-color: #EEEEEE;
+    height: 150px;
+    margin-top: 50px;
+}
+
+.h1-header {
+    font-size: 72px;
+    margin-bottom: 15px;
+    letter-spacing: -3px;
+}
+
+.intro-h1 {
+    font-weight: 300;
+    color: #eee;
+    z-index: 99999;
+    position: relative;
+    top: 35%;
+    font-size: 45px;
+}
+
+.intro-h2 {
+    font-weight: 300;
+    font-size: 27px;
+    color: #fff;
+}
+
+.intro-h2-div {
+    position: relative;
+    top: 40%;
+}
+
+.more-info-button {
+    border: 1px solid #FF5722;
+    padding: 5px;
+    width: 75px;
+    text-align: center;
+    color: #FF5722;
+    cursor: pointer;
+    background-color: white;
+}
+
+.more-info-button:hover {
+    color: white;
+    background-color: #FF5722;
+}
+
+
+/*background-color: #2a2a2a;*/
