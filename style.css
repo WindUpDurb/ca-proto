@@ -13,7 +13,7 @@ body {
     background-size: cover;
     color: white;
     text-align: center;
-    background-image: url("/police-lrg.png");
+    background-image: url("police-lrg.png");
 }
 
 .main-color {
